@@ -6,7 +6,7 @@
 Je savais pas il y avait des exercices à faire à la maison. Donc, j'ai essayé de comprendre c'est qu'on doit faire. 
 J'ai appris qu'on peut utiliser "*" comme une partie pas important dans le nom d'un fichier. J'ai l'aimé cette fonction beaucoup et j'ai commencé à faire l'exercise. 
 
-```shell
+```bash
 mkdir txt
 #créer un fichier "txt"
 mv *.txt txt
@@ -24,7 +24,7 @@ cd 2016
 
 Ici, j'ai pensé que refaire ça pour 12 fois est nulle. Est-ce qu'il est possible de créer un loop dans le shell, je m'ai démandé. Et puis, avec un petit recherche dans le Google, j'ai trouvé que c'était possible. 
 
-```shell
+```bash
 for m in {1..12}; do #créer un boucle qui va commencer avec 1 et continue jusqu'à 12 avec "m" est le variable.
     mkdir -p "$m" # si n'existe pas, créer un fichier "$m"
     mv 2017_"$m"*.txt "$m"/ # déplacer tout ce qui commence par "2017_" et avoir "$m" juste après à une fichier avec le même nom de notre variable. 
@@ -47,3 +47,4 @@ git log # pour voir les logs
 ```
 
 Après, on a finit le cours. À la semaine prochaine. 
+

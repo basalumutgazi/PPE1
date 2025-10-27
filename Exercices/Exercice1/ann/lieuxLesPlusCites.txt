@@ -1,0 +1,183 @@
+8340 
+  38 Nord
+  28 la République
+  22 Sud
+  17 Triomphe
+  12 l’Étoile
+  12 Champs-Élysées
+  10 la Concorde
+   7 Friedland
+   6 Janeiro
+   5 triomphe
+   5 la Bastille
+   5 du Congo
+   4 l'Ouest
+   3 la Grande armée
+   3 la Cité
+   3 e
+   3 de Paris
+   3 de Chine
+   3 arrondissement de Paris
+   3 République
+   3 Rivoli
+   3 Italiens
+   2 unis
+   2 la Pépinière
+   2 la Madeleine
+   2 la Loire
+   2 la Liberté
+   2 la Grande Armée
+   2 l'Arve
+   2 b
+   2 Tabby
+   2 Saint-Charles
+   2 Président-Wilson
+   2 Presbourg
+   2 Pont-d'Arc
+   2 Mathurins
+   2 Lodge
+   2 Halles
+   2 Grange
+   2 Dries
+   2 Chine méridionale
+   2 Caumartin
+   2 Bruxelles-Central
+   2 3
+   1 ville
+   1 sports d’hiver de Sofia
+   1 sahraouie démocratique
+   1 prairies
+   1 ouaki
+   1 memorial
+   1 l’Impératrice
+   1 l’Etoile
+   1 l’Est
+   1 littoral
+   1 la mairie
+   1 la Villette
+   1 la Vierge
+   1 la Victoire
+   1 la Sorgue
+   1 la Réunion
+   1 la Nation
+   1 la Loi
+   1 la Licorne
+   1 la Joya
+   1 la Goutte-d'Or
+   1 la France
+   1 la Bourse
+   1 la Boetie
+   1 l'Euphrate
+   1 l'Est
+   1 l'Elysée
+   1 l' Élysée
+   1 l' Euphrate
+   1 glaces de Canillo
+   1 feu
+   1 faubourg-saint-honoré
+   1 et artisanale des Landiers
+   1 désert syrien
+   1 du Pakistan
+   1 de Serbie
+   1 de Pyeongchang
+   1 de Gurmençon
+   1 de Creys-Malville
+   1 de Bruxelles
+   1 da Feira
+   1 d'Aubagne
+   1 d' Aix-les-Bains
+   1 cirque Cilaos
+   1 arrondissements
+   1 africains
+   1 Zaïre
+   1 X9
+   1 Valais
+   1 Unis
+   1 Tuileries
+   1 Toucan
+   1 Tilsitt
+   1 Ternes
+   1 Tempêtes
+   1 Temple
+   1 Sud-Est
+   1 Soulor
+   1 Shapley
+   1 Seine
+   1 Sculpteur
+   1 Salez-Sennwald
+   1 Salez
+   1 Saint-Lazare
+   1 Réaumur
+   1 Rome
+   1 Rhône
+   1 Reggio d'Emilie
+   1 Raincy
+   1 Raguénez
+   1 Péri
+   1 Provence
+   1 Princes
+   1 Prairies
+   1 Police de Paris
+   1 Petit Argentier
+   1 Nus
+   1 Nord de Paris
+   1 Noisy-le-Sec
+   1 Namur
+   1 Mordovie
+   1 Meaux
+   1 Mazures
+   1 Marseille
+   1 MacLauchlan
+   1 Lécuyer
+   1 Lyon
+   1 Lucie
+   1 Lorraine
+   1 Loire
+   1 Lille
+   1 Lilas
+   1 La Boétie
+   1 Kyushu
+   1 Khenchela
+   1 Joux
+   1 Ironman
+   1 Haïti
+   1 Havre aux Maisons
+   1 Guam
+   1 Grands Lacs
+   1 Gaza
+   1 Fuego
+   1 France
+   1 Franc Moisin de Saint-Denis
+   1 Franc Moisin
+   1 Fontenay
+   1 Farsi
+   1 Entrevaux
+   1 Doges
+   1 Deus
+   1 DC
+   1 Cygne
+   1 Creys-Malville
+   1 Crau
+   1 Congo
+   1 Concarneau
+   1 City
+   1 Chine
+   1 Chat
+   1 Charolles
+   1 Centaure
+   1 Casanova
+   1 Caen
+   1 Burundi
+   1 Brownlee
+   1 Boétie
+   1 Belleville
+   1 Batna
+   1 Basin
+   1 Bagnols
+   1 Anglais
+   1 Agathonisi
+   1 A
+   1 93
+   1 4000
+   1 1er de Serbie
+   1 -syrienne
